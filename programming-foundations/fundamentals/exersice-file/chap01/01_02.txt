@@ -1,0 +1,29 @@
+when you want to provid instructions to a computer you use what's called a programming language
+
+ther are hundreds , if not thousands of programming languages available
+each made up of it's own syntax or rules and semantics or meaning
+
+languages examples :
+
+c++
+#include
+int main ()
+{
+  std::cout << "Hello, World!";
+  return 0;
+}
+
+javascript
+document.write("Hello, World!");
+
+python
+print "Hello, World!";
+
+
+
+the main reason why we have so many languages is that each comes with it's own set strengths and weaknesses 
+some are ideal for programming small devices whith limited memory whereas others were made to handle complex mathematical computations 
+
+regardles of the language you choose ultimately that language has to be brokendown into the only one that computers understand "Machine language"
+
+Machine language is exteremely complex for us to write directly because it's mostly just a series of numbers and this is why we have these other languages that we call high-level languages

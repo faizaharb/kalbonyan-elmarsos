@@ -1,0 +1,13 @@
+python is an interpreter language 
+this means we have to interpret it into machine code
+
+there are three main ways to translate source code into machine code :
+1- compile it
+2- interpret it
+3- combination of both 
+
+typically languages like c ,c++ ,and objective-c are known as compiled languages
+
+whereas php and javascript are known as interpretive languages
+
+and finally java ,c# ,and python use the combination approach

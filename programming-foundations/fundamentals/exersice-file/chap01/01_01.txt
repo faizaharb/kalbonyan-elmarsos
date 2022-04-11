@@ -1,0 +1,12 @@
+programming is the process of converting ideas into instructions that a computer can understand and execute
+
+these instructions are specific and sequential
+to get our desired result , the instructions we provid to computer need to specific
+
+computers are very literal ,
+they try to execute our commands exactly
+when we give them bad instructions we might introduce bugs or even make the computer crash
+
+in programming a bug is when something unexpected happens
+
+whereas a crash is when your program stops early or freezs

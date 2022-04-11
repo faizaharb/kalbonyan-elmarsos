@@ -1,0 +1,10 @@
+What is the result of writing pseudocode for a program?
+ answer : an outline for your program
+
+" Pseudocoding helps you create a basic outline for the program you’re creating. With pseudocode, you can begin to describe the structure of your program."
+
+
+Style guides contain recommendations, but it's okay to ignore some of them and write code your own way.
+answer : TRUE
+
+" A style guide allows you to consider the choices that other developers make when writing code in a specific language."
